@@ -37,8 +37,6 @@ function App() {
   const [count, setCount] = useState(0)
   var username = "Vraj";
 
-  // const users = userData;
-  // console.log("app js :", users)
   return (
 
     <>
@@ -88,9 +86,6 @@ function App() {
       {/* <Game /> */}
       {/* <UserDetails /> */}
       {/* <NotFound /> */}
-      {/* <Counter1 /> */}
-      {/* <UserList /> */}
-      {/* <Client /> */}
 
     </>
   )
