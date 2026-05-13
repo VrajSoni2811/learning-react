@@ -53,6 +53,7 @@ function App() {
         <Link to="/edituser">Edit User</Link>
       </nav>
 
+      {/* route is use for routing (path) in reactjs */}
       <Routes>
         {/* <Route path='/' element={<Welcome />} /> */}
         <Route path='/adduser' element={<AddUser />} />
