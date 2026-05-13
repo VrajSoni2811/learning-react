@@ -1,0 +1,169 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App2 {
+  text-align: left;
+  margin: 0 auto;
+  /* max-width: 400px; */
+}
+
+.itinerary-details {
+  font-family: 'Google Sans Code', monospace;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+
+/* Navigation */
+.nav-list {
+  display: flex;
+  gap: 16px;
+  margin: 16px;
+}
+
+/* Home */
+.home-container {
+  text-align: center;
+}
+
+/* User name */
+.user-name {
+  font-family: Roboto;
+  font-weight: normal;
+}
+
+/* Profile image */
+.user-profile-pic {
+  height: 250px;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* First name highlight */
+.user-first-name {
+  font-weight: bold;
+  font-style: italic;
+  color: orange;
+}
+
+/* Login form */
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+/* Center dot container */
+.dot-container {
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}
+
+/* Counter */
+.counter-container {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.counter-container>button {
+  font-size: 20px;
+}
+
+/* User card */
+.user-container {
+  text-align: center;
+  padding: 16px 32px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: 0.2s all;
+  cursor: pointer;
+  max-width: 250px;
+}
+
+p {
+  text-align: left ;
+}
+
+/* User detail layout */
+.user-detail-container {
+  padding: 16px 32px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  gap: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* User list */
+.user-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+}
+td,th{
+  padding: 10px;
+  border-radius: 10px;
+  color: crimson;
+  background-color: rgb(228, 223, 223);
+}
+
+/* Hover effect */
+.user-container:hover {
+  transform: scale(1.1);
+}
+
+
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+} */
+
+/* @keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ 
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+} */
+
+.main-component {
+  color: rgb(79, 201, 31);
+}
+
+/* .card {
+  padding: 2em;
+}
+ 
+.read-the-docs {
+  color: #888;
+} */
+

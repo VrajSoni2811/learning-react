@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Cuban",
+        "pic": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmllZXxlbnwwfHwwfHw%3D&w=1000&q=80%22",
+        "bio": "Travel fan. Hipster-friendly tv scholar. Friendly communicator. Coffee enthusiast."
+    },
+    {
+        "name": "Spencer",
+        "pic": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmF0dXJlfGVufDB8fDB8fHww",
+        "bio": "Award-winning web lover. Thinker. Social media advocate. Creator. Bacon scholar. Zombie geek."
+    },
+    {
+        "name": "Robert",
+        "pic": "https://images.unsplash.com/photo-1586810724476-c294fb7ac01b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJlZSUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D",
+        "bio": "Professional communicator. Travel scholar. Friendly music junkie. Hardcore zombie aficionado."
+    },
+    {
+        "name": "Einstein",
+        "pic": "https://images.unsplash.com/photo-1544894079-4184d7a29169?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM4fHxmcmVlJTIwaW1hZ2VzfGVufDB8fDB8fHww",
+        "bio": "Typical travel guru. Friendly entrepreneur. Zombie expert. Thinker. Pop culture evangelist."
+    }
+]

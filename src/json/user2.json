@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Cuban",
+        "email":"abc@gmail.com",
+        "password":"123",
+        "pic": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmllZXxlbnwwfHwwfHw%3D&w=1000&q=80%22",
+        "bio": "Travel fan. Hipster-friendly tv scholar. Friendly communicator. Coffee enthusiast."
+    },
+    {
+        "name": "Cuban",
+        "email":"abc@gmail.com",
+        "password":"123",
+        "pic": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmllZXxlbnwwfHwwfHw%3D&w=1000&q=80%22",
+        "bio": "Travel fan. Hipster-friendly tv scholar. Friendly communicator. Coffee enthusiast."
+    },
+    {
+        "name": "Cuban",
+        "email":"abc@gmail.com",
+        "password":"123",
+        "pic": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmllZXxlbnwwfHwwfHw%3D&w=1000&q=80%22",
+        "bio": "Travel fan. Hipster-friendly tv scholar. Friendly communicator. Coffee enthusiast."
+    },
+    {
+        "name": "Cuban",
+        "email":"abc@gmail.com",
+        "password":"123",
+        "pic": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmllZXxlbnwwfHwwfHw%3D&w=1000&q=80%22",
+        "bio": "Travel fan. Hipster-friendly tv scholar. Friendly communicator. Coffee enthusiast."
+    }
+]
