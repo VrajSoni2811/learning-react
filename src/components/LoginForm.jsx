@@ -18,6 +18,13 @@ function LoginForm() {
             <input value={password} onChange={(event) => setPassword(event.target.value)}
             name="password" type="password" placeholder="password" />
             <button type="submit">Submit</button>
+            <h1>Login Form</h1>
+            
+            <input value={email} onChange={(event) => setEmail(event.target.value)} 
+            name="email" type="email" placeholder="username" />
+            <input value={password} onChange={(event) => setPassword(event.target.value)}
+            name="password" type="password" placeholder="password" />
+            <button type="submit">Submit</button>
         </form>
     );
 }
