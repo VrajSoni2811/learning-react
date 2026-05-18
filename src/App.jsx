@@ -83,10 +83,6 @@ function App() {
       {/* <Counter /> */}
       {/* <ColorBox />
       <LoginForm /> */}
-      {/* <PaintDot /> */}
-      {/* <Game /> */}
-      {/* <UserDetails /> */}
-      {/* <NotFound /> */}
 
     </>
   )
