@@ -11,6 +11,10 @@ function User({ name, pic, id, deleteButton,editButton}) {
             <button onClick={() => navigate(`/users/${id}`)}>Info</button>
             &emsp;
             {deleteButton}&emsp;
+            {deleteButton}&emsp;
+            {deleteButton}&emsp;
+            {deleteButton}&emsp;
+            {deleteButton}&emsp;
             <button onClick={() => navigate(`/edituser/${id}`)}>Edit</button>
 
         </section>
