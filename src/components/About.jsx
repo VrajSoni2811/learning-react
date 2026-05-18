@@ -37,6 +37,18 @@ export function About() {
             placeholder="contact number"
             required
             />
+             <input onChange={formik.handleChange}
+            name="contact"
+            type="text"
+            placeholder="contact number"
+            required
+            />
+             <input onChange={formik.handleChange}
+            name="contact"
+            type="text"
+            placeholder="contact number"
+            required
+            />
 
             <button type="submit">Submit</button>
         </form>
